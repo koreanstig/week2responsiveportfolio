@@ -1,0 +1,17 @@
+.jumbotron {
+    background: url("http://www.californiafootgolfclub.com/static/img/footgolf-1.jpg") center center / cover no-repeat;
+}
+
+.lead {
+    color: white;
+    -webkit-text-stroke: 1px black;
+}
+
+.h11 {
+    color: white;
+    -webkit-text-stroke: 1px black;
+}
+
+.col-sm-4 {
+    text-align: center;
+}
