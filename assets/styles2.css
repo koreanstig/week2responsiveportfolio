@@ -6,7 +6,11 @@
 }
 
 .aboutme {
-    line-height: 1.5;
     height: 300px;
+    padding: 8%;
+}
+
+
+.tmstext {
     padding: 8%;
 }
