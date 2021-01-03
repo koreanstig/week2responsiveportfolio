@@ -37,3 +37,11 @@ h1 {
 .col-med-6 {
     padding 10%;
 }
+
+.float-left {
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+}
+
+
