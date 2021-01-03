@@ -20,7 +20,7 @@ h1 {
 }
 
 .background {
-    background-image: url("https://enchantedcypress.com/wp-content/uploads/2014/10/soft-bw-background.jpg"); 
+    background-image: url("https://img.pngio.com/soft-background-images-wallpaper-cave-soft-backgrounds-png-3840_2160.png"); 
     background-size: 100%; 
 }
 
@@ -33,18 +33,20 @@ h1 {
 .picture {
     width: 350px;
     height: 350px;
-    display: block;
+    max-height: 100%;
+    max-width: 100%;
     margin: auto;
-    padding: 20px;
+    display: block;
 }
 
+/* for the picture on index.html to get text to wrap  */
 .float-left {
     width: 250px;
     height: 250px;
     margin: 20px;
 }
 
+/* for spacing on the pictures in portfolio.html */
 .col-lg-6 {
-    padding: 20;
+    padding: 15px;
 }
-
