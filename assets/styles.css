@@ -1,3 +1,4 @@
+/* for main page index.html */
 .jumbotron {
     background: url("http://www.californiafootgolfclub.com/static/img/footgolf-1.jpg") center center / cover no-repeat;
     background-size: 100%;
@@ -8,13 +9,10 @@
     -webkit-text-stroke: 1px black;
 }
 
+/* on index.html in jumbotron */
 .h11 {
     color: white;
     -webkit-text-stroke: 1px black;
-}
-
-.col-sm-4 {
-    text-align: center;
 }
 
 h1 {
@@ -22,9 +20,20 @@ h1 {
 }
 
 .background {
-    background-image: url("https://enchantedcypress.com/wp-content/uploads/2014/10/soft-bw-background.jpg");
+    background-image: url("https://enchantedcypress.com/wp-content/uploads/2014/10/soft-bw-background.jpg"); 
+    background-size: 100%; 
 }
 
 .container {
     background: white;
+}
+
+/* for all pictures on portfolio.html */
+.picture {
+    width: 350px;
+    height: 350px;
+}
+
+.col-med-6 {
+    padding 10%;
 }
