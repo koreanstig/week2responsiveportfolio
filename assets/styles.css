@@ -1,5 +1,6 @@
 .jumbotron {
     background: url("http://www.californiafootgolfclub.com/static/img/footgolf-1.jpg") center center / cover no-repeat;
+    background-size: 100%;
 }
 
 .lead {
@@ -18,4 +19,12 @@
 
 h1 {
     color: blue;
+}
+
+.background {
+    background-image: url("https://enchantedcypress.com/wp-content/uploads/2014/10/soft-bw-background.jpg");
+}
+
+.container {
+    background: white;
 }
