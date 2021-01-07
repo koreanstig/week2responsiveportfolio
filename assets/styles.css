@@ -75,3 +75,7 @@ p {
     display: inline-block;
     margin: 0 5px;
   }
+
+.fa {
+    padding: 20px;
+}  
